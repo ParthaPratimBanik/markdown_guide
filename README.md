@@ -10,5 +10,16 @@
 * [Attaching Files](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/attaching-files)
 * [Creating a Permanent Link to Code Snippet](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet)
 
+## Styling Text:
+### **Center**
+```
+<p style="text-align: center;">Text_content</p>
+```
+> <p style="text-align: center;">Text_content</p>
+### **Color**
+```
+<span style="color:blue">some *blue* text</span>
+```
+> <span style="color:blue">some *blue* text</span>
 
 
