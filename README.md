@@ -48,39 +48,4 @@
       />
 /p>
 ```
-> <p align="center">
-    <img src="images/markdown.jpg" 
-        alt="markdown image"
-        width="720" 
-        height="360" 
-        style="display: block; margin: 0 auto"
-      />
-/p>
-
-* CSS style
-```
-img {
-    display: block;
-    float: none;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
-```
-```
-![img](/images/markdown.jpg#center)
-```
-or
-```
-img[src*='#center'] {
-    display: block;
-    margin: auto;
-}
-```
-> img {
-    display: block;
-    float: none;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-} ![img](/images/markdown.jpg#center)
+> <p align="center"> <img src="images/markdown.jpg" alt="markdown image" width="540" height="360" style="display: block; margin: 0 auto"/>
