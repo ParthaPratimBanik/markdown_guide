@@ -12,10 +12,21 @@
 
 ## Styling Text:
 ### **Center**
+* HTML/CSS style (inline style)
 ```
-<p style="text-align: center;">Text_content</p>
+<p style="text-align: center;">text_content</p>
 ```
-> <p style="text-align: center;">Text_content</p>
+> <p style="text-align: center;">text_content</p>
+* Github Flavoured
+```
+<p align="center">text_content</p>
+```
+> <p align="center">text_content</p>
+```
+<center>text_content</center>
+```
+> <center>text_content</center>
+
 ### **Color**
 ```
 <span style="color:blue">some *blue* text</span>
